@@ -1,0 +1,1 @@
+../../../../../Sources/ViewController/HQBaseSegmentViewController.h

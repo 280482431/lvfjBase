@@ -1,0 +1,1 @@
+../../../../../Sources/View/HQARBaseView.h

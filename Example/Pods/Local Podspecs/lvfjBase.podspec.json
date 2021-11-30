@@ -1,0 +1,22 @@
+{
+  "name": "lvfjBase",
+  "version": "1.0.0",
+  "summary": "A powerful and easy to use category view (segment view, segment control, page view, scroll viewcontroller)",
+  "homepage": "https://github.com/280482431/lvfjBase",
+  "license": "MIT",
+  "authors": {
+    "lvfeijun": "280482431@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/280482431/lvfjBase.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Sources",
+    "Sources/**/*.{h,m}"
+  ],
+  "requires_arc": true
+}

@@ -1,0 +1,16 @@
+PODS:
+  - lvfjBase (1.0.0)
+
+DEPENDENCIES:
+  - lvfjBase (from `../../lvfjBase`)
+
+EXTERNAL SOURCES:
+  lvfjBase:
+    :path: "../../lvfjBase"
+
+SPEC CHECKSUMS:
+  lvfjBase: 8eb2adffe2fb5db8d3320bfc6428cc247aafceab
+
+PODFILE CHECKSUM: 0e04cb30549fa17daeb58d94fb99bb95fef8d593
+
+COCOAPODS: 1.11.0
