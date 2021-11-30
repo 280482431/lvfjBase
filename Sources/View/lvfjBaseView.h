@@ -6,15 +6,15 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "HQArBaseModel.h"
+#import "lvfjBaseModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HQARBaseView : UIView
+@interface lvfjBaseView : UIView
 
 @property (nonatomic, strong) HQArBaseModel *model;
 
-+ (CGFloat)getArHeight:(HQArBaseModel *)model;
++ (CGFloat)getArHeight:(lvfjBaseModel *)model;
 
 @end
 

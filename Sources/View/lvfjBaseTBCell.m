@@ -9,7 +9,7 @@
 
 @implementation lvfjBaseTBCell
 
-+ (CGFloat)getlvfjHeight:(HQArBaseModel *)model
++ (CGFloat)getlvfjHeight:(lvfjBaseModel *)model
 {
     return 0.00;
 }

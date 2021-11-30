@@ -5,13 +5,13 @@
 //  Created by lvfeijun on 2021/9/18.
 //
 
-#import "HQPageTableView.h"
+#import "lvfjPageTableView.h"
 #import "HQBackGifFooter.h"
 #import "MJRefresh.h"
 #import "HQGifHeader.h"
 #import "DesignHeader.h"
 
-@implementation HQPageTableView
+@implementation lvfjPageTableView
 
 #pragma data
 

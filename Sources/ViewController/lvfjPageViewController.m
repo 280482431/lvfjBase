@@ -6,14 +6,14 @@
 //  Copyright © 2021 edu24ol. All rights reserved.
 //
 
-#import "LfjPageViewController.h"
+#import "lvfjPageViewController.h"
 #import "HQBackGifFooter.h"
 
-@interface LfjPageViewController ()
+@interface lvfjPageViewController ()
 
 @end
 
-@implementation LfjPageViewController
+@implementation lvfjPageViewController
 
 - (void)viewDidLoad
 {

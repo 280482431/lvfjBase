@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HQArNetworkView : UIView
+@interface lvfjNetworkView : UIView
 
 @property (nonatomic, strong) UILabel *lb;
 @property (nonatomic, strong) UIImageView *imgV;

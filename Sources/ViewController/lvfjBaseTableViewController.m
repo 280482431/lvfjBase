@@ -5,15 +5,15 @@
 //  Created by lvfeijun on 2021/7/9.
 //
 
-#import "HQBaseTableViewController.h"
+#import "lvfjBaseTableViewController.h"
 #import "NSArray+Architecture.h"
 #import "HQGifHeader.h"
 
-@interface HQBaseTableViewController ()
+@interface lvfjBaseTableViewController ()
 
 @end
 
-@implementation HQBaseTableViewController
+@implementation lvfjBaseTableViewController
 
 - (void)viewDidLoad
 {

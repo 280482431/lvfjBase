@@ -16,7 +16,7 @@ typedef enum : NSUInteger {
     EnumRequestDataTypeFirst,///首次加载数据，有些场景要加loading
 } EnumRequestDataType;
 
-@interface HQBaseTableView : UITableView
+@interface lvfjBaseTableView : UITableView
 
 @property (nonatomic, strong) NSArray *datas;
 

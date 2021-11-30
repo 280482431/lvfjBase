@@ -5,7 +5,7 @@
 //  Created by lvfeijun on 2021/9/18.
 //
 
-#import "HQBaseTableView.h"
+#import "lvfjBaseTableView.h"
 #import "HQBackGifFooter.h"
 #import "MJRefresh.h"
 #import "HQGifHeader.h"
@@ -22,7 +22,7 @@ static  NSString * const DefaultUnKnowndataText =@"努力加载中...";
 
 @end
 
-@implementation HQBaseTableView
+@implementation lvfjBaseTableView
 
 #pragma mark register
 

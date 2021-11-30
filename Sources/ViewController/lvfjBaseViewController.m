@@ -6,7 +6,7 @@
 //  Copyright © 2021 edu24ol. All rights reserved.
 //
 
-#import "lfjBaseViewController.h"
+#import "lvfjBaseViewController.h"
 #import "UIImage+bundle.h"
 #import "GVUserDefaults+UserInfo.h"
 #import "HQCodeLoginController.h"
@@ -14,11 +14,11 @@
 #import "HqUINavigationController.h"
 #import "UINavigationController+FDFullscreenPopGesture.h"
 
-@interface lfjBaseViewController ()
+@interface lvfjBaseViewController ()
 
 @end
 
-@implementation lfjBaseViewController
+@implementation lvfjBaseViewController
 
 - (void)viewDidLoad
 {

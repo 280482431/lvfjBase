@@ -14,7 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 static  NSString * const DefaultNoNetworkText =@"网络不给力，点击屏幕刷新";
 
-@interface lfjBaseViewController : UIViewController<SAAutoTracker>
+@interface lvfjBaseViewController : UIViewController<SAAutoTracker>
 
 - (BOOL)isReachable;
 

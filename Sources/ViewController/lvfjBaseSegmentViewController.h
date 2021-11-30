@@ -6,7 +6,7 @@
 //  Copyright © 2021 edu24ol. All rights reserved.
 //
 
-#import "HQBaseViewController.h"
+#import "lvfjBaseViewController.h"
 #import "JXCategoryView.h"
 //#import "HQCourseInitialModel.h"
 
@@ -35,7 +35,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HQBaseSegmentViewController : HQBaseViewController<JXCategoryListContainerViewDelegate,JXCategoryViewDelegate>
+@interface lvfjBaseSegmentViewController : lvfjBaseViewController<JXCategoryListContainerViewDelegate,JXCategoryViewDelegate>
 
 /// 所有数据
 @property (nonatomic, copy) NSArray *datas;

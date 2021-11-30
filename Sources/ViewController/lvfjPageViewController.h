@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface LfjPageViewController : HQBaseTableViewController
+@interface lvfjPageViewController : HQBaseTableViewController
 
 #pragma mark request
 - (void)loadMoreData;

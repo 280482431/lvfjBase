@@ -6,7 +6,7 @@
 //  Copyright © 2021 edu24ol. All rights reserved.
 //
 
-#import "HQBaseSegmentViewController.h"
+#import "lvfjBaseSegmentViewController.h"
 #import "Masonry.h"
 #import "GlobalMacro.h"
 #import "HQGlobalMacro.h"
@@ -17,7 +17,7 @@
 //#import "HQSubjectTagEditController.h"
 //#import "HQGetCategoryQBoxDataService.h"
 
-@interface HQBaseSegmentViewController ()
+@interface lvfjBaseSegmentViewController ()
 
 @property (nonatomic, strong) JXCategoryListContainerView *listContainerView;
 @property (nonatomic, strong) UIButton *categoryBtn;
@@ -28,7 +28,7 @@
 
 @end
 
-@implementation HQBaseSegmentViewController
+@implementation lvfjBaseSegmentViewController
 
 - (void)viewDidAppear:(BOOL)animated
 {

@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 static  NSString * const DefaultNoNetworkHaveDatasText =@"网络不给力";
 
-@interface HQBaseTableViewController : HQBaseViewController <UITableViewDelegate,UITableViewDataSource>
+@interface lvfjBaseTableViewController : HQBaseViewController <UITableViewDelegate,UITableViewDataSource>
 
 @property (nonatomic, strong) NSArray *datas;
 @property (nonatomic, strong) UITableView *tableView;

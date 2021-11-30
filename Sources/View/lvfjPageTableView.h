@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HQPageTableView : HQBaseTableView
+@interface lvfjPageTableView : HQBaseTableView
 
 #pragma mark request
 - (void)loadMoreData;

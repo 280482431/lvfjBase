@@ -5,10 +5,10 @@
 //  Created by lvfeijun on 2021/10/23.
 //
 
-#import "HQARBaseView.h"
+#import "lvfjBaseView.h"
 
-@implementation HQARBaseView
-+ (CGFloat)getArHeight:(HQArBaseModel *)model
+@implementation lvfjBaseView
++ (CGFloat)getArHeight:(lvfjBaseModel *)model
 {
     return 0.00;
 }

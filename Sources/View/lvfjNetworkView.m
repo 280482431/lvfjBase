@@ -5,11 +5,10 @@
 //  Created by lvfeijun on 2021/8/30.
 //
 
-#import "HQArNetworkView.h"
-#import "DesignHeader.h"
+#import "lvfjNetworkView.h"
 #import "UILabel+Architecture.h"
 
-@implementation HQArNetworkView
+@implementation lvfjNetworkView
 
 - (instancetype)init
 {
