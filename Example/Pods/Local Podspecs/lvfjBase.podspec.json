@@ -18,5 +18,19 @@
     "Sources",
     "Sources/**/*.{h,m}"
   ],
-  "requires_arc": true
+  "requires_arc": true,
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "DZNEmptyDataSet": [
+
+    ]
+  }
 }
